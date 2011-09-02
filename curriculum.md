@@ -1,3 +1,5 @@
+# Introduction
+This is an initial curriculum of things that I would like to cover through this semester (Fall 2011), though it will likely spill over into next semester.
 # Curriculum
 - Dissecting an HTTP Request
 - Semantic markup via HTML
