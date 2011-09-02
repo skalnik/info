@@ -3,6 +3,7 @@ This is where all the information for this student organization will go.
 
 ## Proposing Changes
 You can propose changes to any of the files here by:
+
 1. Forking this repository on Github
 2. Clone the repository to your machine
 3. Make changes and commit them
