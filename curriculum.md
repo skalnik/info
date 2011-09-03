@@ -16,3 +16,6 @@ This is an initial curriculum of things that I would like to cover through this 
 - Services and cross-language RPC via Thrift
 - Real-time communication via socket.io
 - Model-View-Controller design via backbone
+
+# Project
+To play with some of these technologies, we will be using cc-core/tcube
