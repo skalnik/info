@@ -1,4 +1,4 @@
-# Core
+# WIT - Web Innovators at Tech
 This is where all the information for this student organization will go.
 
 ## Proposing Changes
